@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iku190t.github.io/ez-survey/sitemap.xml
